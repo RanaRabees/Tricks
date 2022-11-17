@@ -1,2 +1,1 @@
-# Tricks
-Tricks
+# Shortcut-Keys
